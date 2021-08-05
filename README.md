@@ -9,4 +9,12 @@ QUICK Sort
 
 ![quick](https://user-images.githubusercontent.com/83116065/128291950-cd6b2f4e-b9c1-4619-8eeb-f1b12dcab5de.gif)
 
+
+
+
+
+
+
+
+
 ![quick](https://user-images.githubusercontent.com/83116065/128233970-7a3b6f94-ef93-4ecf-8949-724f373320f9.gif)
