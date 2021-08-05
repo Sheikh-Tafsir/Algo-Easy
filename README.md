@@ -3,7 +3,7 @@ Algo visualizer (sort and others) using C++, SFML
 
 MENU
 
-![menu](https://user-images.githubusercontent.com/83116065/128294371-9a63995c-a4b4-4502-83ee-0c450973e494.gif)
+![menu](https://user-images.githubusercontent.com/83116065/128294705-2b62b7cf-42ff-43c0-90b2-82bb4827df63.gif)
 
 
 QUICK Sort
