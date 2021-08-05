@@ -1,20 +1,15 @@
 # Algo-Easy
 Algo visualizer (sort and others) using C++, SFML
 
-MERGE Sort
-
-![merge](https://user-images.githubusercontent.com/83116065/128233405-f9ab1f0a-142e-4752-8d55-e128b5c3d97d.gif)
-
 QUICK Sort
 
-![quick](https://user-images.githubusercontent.com/83116065/128291950-cd6b2f4e-b9c1-4619-8eeb-f1b12dcab5de.gif)
+![quick](https://user-images.githubusercontent.com/83116065/128293336-ef3e4bdc-7f79-4e4c-8e4e-b0a5b4084265.gif)
 
+MERGE Sort
 
+![merge](https://user-images.githubusercontent.com/83116065/128293029-3c662447-fd01-40f9-80eb-13676ce33e39.gif)
 
+SELECTION Sort
 
+![selection](https://user-images.githubusercontent.com/83116065/128292650-fde4b0ae-11f1-435b-b574-c9adc1545416.gif)
 
-
-
-
-
-![quick](https://user-images.githubusercontent.com/83116065/128233970-7a3b6f94-ef93-4ecf-8949-724f373320f9.gif)
