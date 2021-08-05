@@ -13,7 +13,7 @@ int main()
       srand(time(0));
       //sf::sleep(sf::milliseconds(20));
       sf::RenderWindow window(sf::VideoMode(1600, 900), "Algo Visualiser!");
-      window.setFramerateLimit(200);
+      window.setFramerateLimit(150);
 
 
       int n=120,i,j,k,key,s=0,r,x,m;
