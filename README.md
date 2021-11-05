@@ -18,3 +18,8 @@
 - 6 Sorting Algo, Binary seacrh, Eratosthenes Seive Algo etc can be used
 - Speed can be adjusted using FramerateLimit of the SFML code
 - Data size can be increased or decreased
+
+
+## Stats
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sheikh-Tafsir&theme=radical&repo=Algo-Easy
+)](https://github.com/anuraghazra/github-readme-stats)
