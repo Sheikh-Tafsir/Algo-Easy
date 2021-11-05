@@ -1,7 +1,5 @@
 # Algo-Easy
 
-## Algo visualizer (sort and others) using C++, SFML
-
 ### MENU
 ![menu](https://user-images.githubusercontent.com/83116065/128294705-2b62b7cf-42ff-43c0-90b2-82bb4827df63.gif)
 
