@@ -20,3 +20,7 @@
 
 ![selection](https://user-images.githubusercontent.com/83116065/128292650-fde4b0ae-11f1-435b-b574-c9adc1545416.gif)
 
+## Features
+- Visualize Algorrithms how they actually work
+- 6 Sorting Algo, Binary seacrh, Eratosthenes Seive Algo etc can be used.
+- Speed can be adjusted using FramerateLimit of the SFML code
