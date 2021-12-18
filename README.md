@@ -1,9 +1,9 @@
 <h1 align="center">Algo-Easy</h1>
 <p align="center">
-   <img src="https://img.shields.io/badge/language-cpp-blue?style"/>
-   <img src="https://img.shields.io/github/license/maxam2017/productive-box"/>
-   <img src="https://img.shields.io/github/stars/maxam2017/productive-box"/>
-   <img src="https://img.shields.io/github/forks/maxam2017/productive-box"/>
+   <img src="https://img.shields.io/badge/language-c++-red?style"/>
+   <img src="https://img.shields.io/github/license/Sheikh-Tafsir/Algo-Easy"/>
+   <img src="https://img.shields.io/github/stars/Sheikh-Tafsir/Algo-Easy"/>
+   <img src="https://img.shields.io/github/forks/Sheikh-Tafsir/Algo-Easy"/>
 </p>
 
 ### MENU
