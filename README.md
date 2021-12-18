@@ -1,4 +1,10 @@
-# Algo-Easy
+<h1 align="center">Algo-Easy</h1>
+<p align="center">
+   <img src="https://img.shields.io/badge/language-cpp-blue?style"/>
+   <img src="https://img.shields.io/github/license/maxam2017/productive-box"/>
+   <img src="https://img.shields.io/github/stars/maxam2017/productive-box"/>
+   <img src="https://img.shields.io/github/forks/maxam2017/productive-box"/>
+</p>
 
 ### MENU
 ![menu](https://user-images.githubusercontent.com/83116065/128294705-2b62b7cf-42ff-43c0-90b2-82bb4827df63.gif)
